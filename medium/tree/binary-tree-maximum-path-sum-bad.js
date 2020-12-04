@@ -80,4 +80,5 @@ var maxPathSum = function(root) {
     // didn't consider one branch all negative
     // should have spent more time pondering the property "path", and what the different combos are
     // did a good job thinking through the recursion
+    // did a good job of thinking through max
 };
