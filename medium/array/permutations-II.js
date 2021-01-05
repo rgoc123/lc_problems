@@ -28,9 +28,8 @@ var permuteUnique = function(nums) {
 
                 backtrack(combos, counter)
 
-                combos.pop()
-
                 counter[num] += 1
+                combos.pop()
             }
         }
     }
